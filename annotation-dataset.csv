@@ -1,0 +1,6 @@
+ID,Healthcare_Statement,Annotation_Label
+001,"The patient reports severe pain around the knee after a fall.",SYMPTOM
+002,"The patient was provided with a below-knee prosthetic limb following an amputation.",DEVICE
+003,"The patient underwent physiotherapy to improve balance and walking ability after a lower-limb injury.",TREATMENT
+004,"The patient is unable to walk independently and requires assistance when transferring from the bed to a wheelchair.",FUNCTION
+005,"The patient was diagnosed with a fracture of the right femur following a road traffic accident.",CONDITION
